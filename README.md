@@ -1,4 +1,4 @@
-🎬 Netflix GPT
+# 🎬 Netflix GPT
 Netflix GPT is a smart, AI-powered Netflix-inspired application that provides a modern user experience for exploring movies and TV shows using natural language. Built with user authentication, dynamic search via OpenAI’s ChatGPT API, and a polished Netflix-style UI — this project is a full-stack React app tailored for both learning and showcasing your skills.
 
 🚀 Features
